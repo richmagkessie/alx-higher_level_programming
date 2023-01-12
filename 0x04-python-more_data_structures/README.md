@@ -1,7 +1,7 @@
 ### More Data Structures: Set, Dictionary
 
 Learnt:
-- What are sets and how to use them
+- Sets and their usage in python
 - What are the most common methods of set and how to use them
 - When to use sets versus lists
 - How to iterate into a set
