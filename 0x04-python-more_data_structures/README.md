@@ -2,9 +2,10 @@
 
 Learnt:
 - Sets and their usage in python
-- What are the most common methods of set and how to use them
-- When to use sets versus lists
-- How to iterate into a set
+- Popular uses of Sets
+- Application of sets vrs lists
+    <When to use both in solving problems>
+- Set Iteration
 - What are dictionaries and how to use them
 - When to use dictionaries versus lists or sets
 - What is a key in a dictionary
